@@ -1,2 +1,13 @@
-# BI_ML_2024
-This repo contains homework assignments for the machine learning course
+# Dog breed prediction
+This repository contains code for predicting dog breeds based on their photos.
+
+Data was obtained from [Kaggle](https://www.kaggle.com/competitions/dog-breed-identification) Dog Breed Identification competition. 
+
+Predictions can also be made using a Telegram bot
+
+Project contributors:
+* Michil Trofimov
+* Shakir Suleimanov
+* Vladimir Grigoriants
+* Alisa Fedorenko
+* Maria Uzun
